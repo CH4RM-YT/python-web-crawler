@@ -1,28 +1,34 @@
 # web-crawler-to-get-emails
 
-# Table Of Content 
+## Table Of Content 
 
 -[Installation](#Installation) 
 
 -[Usage](#Usage) 
 
-# Installation 
+## Installation 
 
-clone repo: git clone https://github.com/CH4RM-YT/python-web-crawler.git 
-
+**clone repo:** 
+```
+git clone https://github.com/CH4RM-YT/python-web-crawler.git 
+```
+**navigate to the email_scraper folder:**
+```
 cd email_scraper
-
+```
+**install the requirements:**
+```
 pip install -r requirements.txt
-
-# Usage
+```
+## Usage
 
 navigate to the  "spiders" folder and paste your urls in the "urls.txt" file with each url on a new line
 
 open a terminal in the "spiders" folder
 
-run:
-
+**run:**
+```
 scrapy crawl email_scraper
-
+```
 open the emails.txt file to see you ready list of emails
 
