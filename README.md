@@ -10,7 +10,7 @@
 
 **clone repo:** 
 ```
-git clone https://github.com/CH4RM-YT/python-web-crawler.git 
+https://github.com/ch4rm78/python-web-crawler.git 
 ```
 **navigate to the email_scraper folder:**
 ```
