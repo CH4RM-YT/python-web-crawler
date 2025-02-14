@@ -30,5 +30,5 @@ open a terminal in the "spiders" folder
 ```
 scrapy crawl email_scraper
 ```
-open the emails.txt file to see you ready list of emails
+open the emails.txt file to see your ready list of emails
 
